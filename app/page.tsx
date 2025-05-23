@@ -266,7 +266,7 @@ export default function ModernPortfolio() {
                 >
                   <a href="MAHENDRAREDDYRV_1BY22CS216.pdf" download>
                     <Download className="h-4 w-4" />
-                    Download CV
+                    Download Resume
                   </a>
                 </Button>
             </div>
