@@ -285,7 +285,7 @@ export default function ModernPortfolio() {
                 <Linkedin className="h-6 w-6" />
               </Link>
               <Link
-                href="mailto:mahendrareddyrv044@gmail.com"
+                href="mailto:mahendrareddyrv72@gmail.com"
                 className="text-slate-600 dark:text-slate-300 hover:text-blue-600 dark:hover:text-blue-400 transition-colors"
               >
                 <Mail className="h-6 w-6" />
@@ -548,7 +548,7 @@ export default function ModernPortfolio() {
                 <Linkedin className="h-6 w-6" />
               </Link>
               <Link
-                href="mailto:mahendrareddyrv044@gmail.com"
+                href="mailto:mahendrareddyrv72@gmail.com"
                 className="text-slate-400 hover:text-white transition-colors"
               >
                 <Mail className="h-6 w-6" />
