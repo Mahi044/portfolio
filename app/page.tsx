@@ -160,12 +160,12 @@ export default function ModernPortfolio() {
       live: "https://carexpo-uosw.onrender.com",
     },
     {
-      title: "in-progress",
-      description: "in-progress ...",
-      image: "project3gif.gif",
-      tags: ["in-progress ..."],
-      github: "https://github.com/Mahi044/CarExpo",
-      live: "https://carexpo-uosw.onrender.com",
+      title: "Customer Shopping Behavior Analysis",
+      description: "This project analyzes customer shopping behavior using SQL, Python, and Power BI. ",
+      image: "https://blog-static.userpilot.com/blog/wp-content/uploads/2024/06/customer-behavior-analysis-example-to-help-you-get-greater-insights_60bbf57088c20bec3c7a1debdebee383_2000.png",
+      tags: ["Python","Numpy","Pandas", "SQL" ,"PowerBI"],
+      github: "https://github.com/Mahi044/customer_behavior_analysis",
+      live: "https://app.powerbi.com/links/Qy_B_nEQSP?ctid=bb4e68cd-fdbb-4789-82e5-1584d60de7f4&pbi_source=linkShare",
     },
   ]
 
