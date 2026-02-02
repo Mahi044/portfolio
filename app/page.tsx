@@ -166,7 +166,7 @@ export default function ModernPortfolio() {
       tags: ["Python","Numpy","Pandas", "SQL" ,"PowerBI"],
       github: "https://github.com/Mahi044/customer_behavior_analysis",
       live: "https://app.powerbi.com/links/Qy_B_nEQSP?ctid=bb4e68cd-fdbb-4789-82e5-1584d60de7f4&pbi_source=linkShare",
-    },
+    }
   ]
 
   return (
